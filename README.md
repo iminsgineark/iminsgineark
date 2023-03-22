@@ -21,7 +21,7 @@
 <a href="https://www.youtube.com/c/iker gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iker gaming" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/iminsigneark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/iminsigneark" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/utkrist_ark_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/utkrist_ark_27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ankurjha4025/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ankurjha4025/" height="30" width="40" /></a>
+<a href="https://leetcode.com/ankurjha4025/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ankurjha4025/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
