@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkrist Ark</h1>
-<h3 align="center">A Programmer As Well As Full Stack Java Developer from India</h3>
+<h3 align="center">A Full Stack Java Developer from India</h3>
 <img align="right" alt="coding" width="400" src = "https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
