@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Utkrist Ark</h1>
 <h3 align="center">A Programmer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iminsgineark" alt="iminsgineark" /></a> </p>
+
 
 - 🌱 I’m currently learning **DevOps Engineering**
 
@@ -33,3 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iminsgineark&" alt="iminsgineark" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iminsgineark" alt="iminsgineark" /></a> </p>
