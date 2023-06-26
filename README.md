@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iminsgineark](https://github.com/iminsgineark)
 
-- 💬 Ask me about **Java, C#, Python**
+- 💬 Ask me about **Java, DevOps, Data Analysis, Python**
 
 - 📫 How to reach me **ankurjha4025@gmail.com**
 
