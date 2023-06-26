@@ -2,7 +2,7 @@
 <h3 align="center">A Programmer from India</h3>
 <img align="right" alt="coding" width="400" src = "https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
- 🌱 I’m currently learning **DevOps Engineering**
+ 🌱 I’m currently learning ****DevOps Engineering****
 
 - 👨‍💻 All of my projects are available at [https://github.com/iminsgineark](https://github.com/iminsgineark)
 
