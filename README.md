@@ -21,7 +21,7 @@
 <a href="https://instagram.com/ark27.xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ark27.xd" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/iminsigneark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iminsigneark" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@utkrist_ark_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@utkrist_ark_27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankurjha4025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankurjha4025" height="30" width="40" /></a>
+<a href="https://leetcode.com/utkristark27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankurjha4025" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
